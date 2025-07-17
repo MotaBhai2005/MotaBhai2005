@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MotaBhai2005
 - 👀 I’m interested in ... Finance
-- 🌱 I’m currently learning ... C;C++ ; HTML, CSS, JavaScript
+- 🌱 I’m currently learning ... C; C++ ; HTML, CSS, JavaScript, Node js
 - 💞️ I’m looking to collaborate on ... Any Project for Experience
 - 📫 How to reach me ... Email : rudrababulu2005@gmail.com
 - 😄 Pronouns: ... He
